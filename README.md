@@ -8,5 +8,5 @@ Files:
 I am still working on the files that requires a Makefile to work. That would take some time, so for now try the individual files. 
 
 # Notes
-1. Project3EO
+1. Project3EO_03.cpp currently uses <conio.h> which is non-standard header. For now use CodeBlocks to open (or any compiler that can run <conio.h>), I will resolve this later. 
 
