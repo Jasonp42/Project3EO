@@ -6,3 +6,7 @@ Files:
 1. Individual C++ source file, executable for each part of the project (Project3EO_xx)
 2. One project that needs a Makefile to work (Other files with title of individual parts)
 I am still working on the files that requires a Makefile to work. That would take some time, so for now try the individual files. 
+
+# Notes
+1. Project3EO
+
